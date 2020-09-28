@@ -1,0 +1,2 @@
+# waterDetection
+基于Vue移动框架开发的关于水质监测的数据可视化项目
